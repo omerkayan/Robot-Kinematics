@@ -1,5 +1,5 @@
 %% https://github.com/omerkayan
-%% Space Jacobian
+%% Singularity
 %% Stæubli TX90 Robot
 
 clc; clear all; close all;
